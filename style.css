@@ -1,0 +1,45 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+body{
+background: url('bg.jpg');
+
+background-repeat: repeat-y;
+background-size:cover;
+  
+  
+}
+
+h3{
+  text-align:left;
+  font-size: 30px;
+  color:white;
+  font-family: Arial;
+  padding-top: 1rem;
+  padding-left: 10rem;
+
+}
+
+.title-main{
+    color:white;
+   text-align:left;
+   font-size:80px;
+   padding-left:10rem;
+  }
+.about-main{
+  color:white;
+  text-align:left;
+  font-family: 'Libre Bodoni', serif;
+  font-size:30px;
+  padding-left:10rem;  
+}
+p1{
+  color:yellow
+}
+.button{
+  position:relative;
+  bottom:27rem; 
+}
+
